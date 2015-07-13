@@ -1,0 +1,11 @@
+language: java
+
+jdk:
+  - oraclejdk7
+
+notifications:
+  email:
+  - renaud.richardet@gmail.com
+#TODO replace with dkpro-core-source@googlegroups.com
+
+  
